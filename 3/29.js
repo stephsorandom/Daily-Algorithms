@@ -7,6 +7,8 @@ Given [34, 15, 88, 2] your solution will return 2
 Given [34, -345, -1, 100] your solution will return -345
 
 
+
+         //Using sort method!
 //return the smallest integer from an array
 //loop through array
 //somehow sort the array, smallest to largest
